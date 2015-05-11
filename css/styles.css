@@ -1,1 +1,47 @@
 /* Your Styling */
+
+
+header {
+	background: red;
+}
+
+
+/*App*/
+article section:nth-child(1) {
+	background: grey;
+}
+
+
+/*Entree*/
+article section:nth-child(2) {
+	background: yellow;
+}
+
+
+/*Dessert*/
+article section:nth-child(3) {
+	background: grey;
+}
+
+/* Drinks */
+article section:nth-child(4) {
+	background: blue;
+}
+
+/*footer*/
+footer section:nth-child(1) {
+
+background: pink;
+
+ }
+
+ footer section:nth-child(2) {
+
+background: lime;
+
+ }
+
+
+
+
+
