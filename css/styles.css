@@ -5,6 +5,33 @@ header {
 	background: red;
 }
 
+/*Article Headings*/
+
+article section {
+	position: relative;
+
+}
+
+article section p {
+
+	margin-top: 45px;
+
+}
+
+
+article h3 {
+	background: #000;
+	padding: 4px;
+
+	position: absolute;
+	left: -25px;
+	top: 0px;
+
+
+	text-transform: uppercase;
+	text-shadow: 3px 3px 10px #fff;
+}
+
 
 /*App*/
 article section:nth-child(1) {
@@ -21,6 +48,7 @@ article section:nth-child(2) {
 /*Dessert*/
 article section:nth-child(3) {
 	background: grey;
+
 }
 
 /* Drinks */
